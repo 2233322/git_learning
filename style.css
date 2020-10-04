@@ -7,4 +7,9 @@ body {
 div {
     font-size: 24px;
     color: green;
+
+}
+
+p {
+    margin-top: 20px;
 }
